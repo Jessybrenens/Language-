@@ -8,5 +8,5 @@
 - [x] Research communication patterns
 - [x] Write treatise sections
 - [x] Format in hierarchical numbering
-- [ ] Commit work to GitHub
-- [ ] Deliver completed treatise
+- [x] Commit work to GitHub
+- [x] Deliver completed treatise
