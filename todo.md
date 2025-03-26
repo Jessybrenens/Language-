@@ -7,6 +7,6 @@
 - [x] Create Tractatus-style outline
 - [x] Research communication patterns
 - [x] Write treatise sections
-- [ ] Format in hierarchical numbering
+- [x] Format in hierarchical numbering
 - [ ] Commit work to GitHub
 - [ ] Deliver completed treatise
