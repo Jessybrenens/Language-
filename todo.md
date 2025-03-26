@@ -5,8 +5,8 @@
 - [x] Configure git authentication with PAT
 - [x] Create project structure
 - [x] Create Tractatus-style outline
-- [ ] Research communication patterns
-- [ ] Write treatise sections
+- [x] Research communication patterns
+- [x] Write treatise sections
 - [ ] Format in hierarchical numbering
 - [ ] Commit work to GitHub
 - [ ] Deliver completed treatise
