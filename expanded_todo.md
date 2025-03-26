@@ -7,8 +7,8 @@
 - [x] Commit initial work to GitHub
 - [x] Deliver initial treatise
 - [x] Create expanded treatise plan
-- [ ] Setup GitHub branch for expansion
-- [ ] Research additional content
+- [x] Setup GitHub branch for expansion
+- [x] Research additional content
 - [ ] Expand section 1 (Linguistic Mechanics)
 - [ ] Expand section 2 (Emotional Intelligence)
 - [ ] Expand section 3 (Contextual Processing)
